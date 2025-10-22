@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Armein Z. R. Langi"
-  subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  title: "Naomi Azzahra"
+  subtitle: "UTS II2100"
+  author: "18224017 Naomi Azzahra"
+  date: "23/11/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd
@@ -14,11 +14,6 @@ book:
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd
     - My_Personal_Reviews/index.qmd
-    - My_Concepts/index.qmd
-    - My_Opinions/index.qmd
-    - My_Innovations/index.qmd
-    - My_Knowledge/index.qmd
-    - My_Professional_Reviews/index.qmd
     - summary.qmd
     - references.qmd
 
