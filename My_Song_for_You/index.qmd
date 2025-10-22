@@ -1,55 +1,48 @@
 # UTS-2 My Songs for You
 
----
-title: "Seni dan Aku"
-subtitle: "Refleksi tentang Cinta, Musik, dan Bahasa Jiwa"
-format:
-  html:
-    toc: false
-    page-layout: full
-    theme: cosmo
-    mainfont: "Georgia"
-    fontsize: 1.1em
----
+“Negara yang Kupeluk, Meski Terkadang Mencekik”
 
-<style>
-blockquote {
-  font-style: italic;
-  font-size: 1.15em;
-  color: #444;
-  border-left: 4px solid #9e7bb5;
-  padding-left: 1em;
-  margin-left: 0;
-}
-p {
-  text-align: justify;
-  line-height: 1.7;
-}
-</style>
+Negaraku,
+kadang terasa seperti pelukan yang terlalu erat —
+hangat di awal,
+tapi lama-lama susah bernapas.
 
-# 🌸 Seni dan Aku
+Katanya, tanah ini subur.
+Benar — bahkan kebohongan pun bisa tumbuh di sini.
+Kita tanam janji,
+panennya janji lagi.
 
-Aku jatuh cinta pada hal-hal yang tak bisa dijelaskan,  
-pada warna yang tak punya nama,  
-pada nada yang menolak diam.  
+Di televisi, mereka tertawa di kursi empuk,
+menyebut kita “rakyat”
+seolah itu nama panggilan kesayangan,
+padahal yang mereka cintai cuma suara kita —
+yang lima menit,
+setiap lima tahun.
 
-Seni bukan sekadar yang kulihat—  
-ia adalah getar halus di dadaku  
-saat kata-kata tak lagi cukup menjelaskan dunia.  
+Kita protes di jalan,
+teriak sampai suara pecah,
+sementara mereka menonton dari layar,
+sambil menyeruput kopi impor,
+dan berkata,
+“Lihat, demokrasi kita sehat sekali.”
 
-Aku mencintai caranya musik bercerita,  
-bagaimana satu melodi bisa menampung seluruh hidup seseorang,  
-dan sebuah kalimat bisa menyalakan kembali masa kecilku yang redup.  
+Negaraku,
+aku tidak benci padamu.
+Aku hanya muak melihat orang-orang
+yang menyebut diri penjagamu
+tapi sibuk menagih upeti dari napas rakyat.
 
-Seni membuatku merasa hidup dua kali:  
-sekali di dunia nyata,  
-dan sekali lagi di dunia yang hanya aku yang tahu bentuknya.  
+Namun entah kenapa,
+aku tetap jatuh cinta padamu.
+Mungkin karena langitmu masih biru,
+atau karena di antara puing dan polusi,
+selalu ada tawa anak kecil
+yang belum tahu cara menipu.
 
-Di sanalah aku menemukan diriku—  
-bukan sebagai sosok yang ingin dimengerti,  
-tapi sebagai jiwa yang terus belajar memahami.  
-
-Karena bagi aku,  
-**seni adalah bahasa paling jujur manusia**,  
-dan aku hanyalah seseorang  
-yang ingin berbicara dengan cara yang indah.  
+Aku menulis ini bukan untuk memberontak,
+tapi untuk mengingatkan —
+kita bukan musuh negeri,
+kita cuma warga
+yang masih percaya
+bahwa Indonesia bisa dicintai
+tanpa harus mati karenanya.
